@@ -4,6 +4,7 @@
 - **Nama:** Alza Aulya Falista
 - **NIM:** 253140700111004
 - **Judul Proyek PBL UAS:** Celengance - Aplikasi Financial Goal Tracker
+- **link Git Hub PBL :** https://github.com/CELENGANCE
 - **Tautan Desain Figma:** (https://www.figma.com/design/7WvUgNFCu4ZjtvRzDF19HF/CELENGAN?node-id=31-2&p=f&t=j1R2u2IEAG3zJM8C-0)
 
 ## Deskripsi Aplikasi
